@@ -1,7 +1,11 @@
 # Accidental_OD_Deaths
 Analysis of trends amongst accidental overdoses in Connecticut
 # Team name and members
-(Team 6) Ari Pais, Esom Nwachukwu, Reya Harees, Sophia Parbatani, Ian Wright
+1. Parbatani, Sophia @sophia-parbatani
+2. Wright, Ian @ianw1103
+3. Pais, Ari @ari-pais
+4. Harees, Reya @reyaharees
+5. Nwachukwu, Esom @esom-n
 # Data Set Information
 11,982 rows and 48 columns
 The notable categorical data: sex, race, county, manner of death: (accidental/intentional), type of drug for the OD
